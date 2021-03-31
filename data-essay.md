@@ -5,9 +5,9 @@
 ### 3. Источники данных <br>
 Данные – это какие-либо сведения, содержащиеся в определенной форме на определенном носители и пригодные для постоянного хранения, передачи и обработки. Информация – это результат, который мы получаем, анализируя и преобразуя данные. Сами по себе данные являются не информацией, а лишь набором сведений. <br>
 Ссылки на данные из интернет-источника data.mos.ru:
-•	https://data.mos.ru/opendata/7704253064-chislennost-grajdan-imeyushchih-status-bezrabotnyh?pageNumber=1&versionNumber=2&releaseNumber=28 (Численность безработных граждан, состоящих на учете в службе занятости населения, на конец периода)
-•	https://data.mos.ru/opendata/7704253064-chislennost-bezrabotnyh-kotorym-naznacheno-posobie-po-bezrabotitse?pageNumber=13&versionNumber=2&releaseNumber=28 (Численность безработных, которым назначено пособие по безработице)
-•	https://data.mos.ru/opendata/2082?pageNumber=12&versionNumber=2&releaseNumber=30 (Численность граждан, незанятых трудовой деятельностью, состоящих на учете в службе занятости населения, на конец периода). <br>
+<br> •	https://data.mos.ru/opendata/7704253064-chislennost-grajdan-imeyushchih-status-bezrabotnyh?pageNumber=1&versionNumber=2&releaseNumber=28 (Численность безработных граждан, состоящих на учете в службе занятости населения, на конец периода)
+<br> •	https://data.mos.ru/opendata/7704253064-chislennost-bezrabotnyh-kotorym-naznacheno-posobie-po-bezrabotitse?pageNumber=13&versionNumber=2&releaseNumber=28 (Численность безработных, которым назначено пособие по безработице)
+<br> •	https://data.mos.ru/opendata/2082?pageNumber=12&versionNumber=2&releaseNumber=30 (Численность граждан, незанятых трудовой деятельностью, состоящих на учете в службе занятости населения, на конец периода). <br>
 
 Ссылки на данные из Hub of Data: <br>
 https://hubofdata.ru/dataset/unemployment_in_moscow <br>
